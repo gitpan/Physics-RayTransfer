@@ -4,7 +4,7 @@
       "Joel Berger <joel.a.berger@gmail.com>"
    ],
    "dynamic_config" : 0,
-   "generated_by" : "Dist::Zilla version 4.300009, CPAN::Meta::Converter version 2.120351",
+   "generated_by" : "Dist::Zilla version 4.300009, CPAN::Meta::Converter version 2.120921",
    "license" : [
       "perl_5"
    ],
@@ -48,6 +48,32 @@
          }
       }
    },
+   "provides" : {
+      "Physics::RayTransfer" : {
+         "file" : "lib/Physics/RayTransfer.pm",
+         "version" : "0.002"
+      },
+      "Physics::RayTransfer::Element" : {
+         "file" : "lib/Physics/RayTransfer.pm",
+         "version" : "0.002"
+      },
+      "Physics::RayTransfer::Lens" : {
+         "file" : "lib/Physics/RayTransfer.pm",
+         "version" : "0.002"
+      },
+      "Physics::RayTransfer::Mirror" : {
+         "file" : "lib/Physics/RayTransfer.pm",
+         "version" : "0.002"
+      },
+      "Physics::RayTransfer::Observer" : {
+         "file" : "lib/Physics/RayTransfer.pm",
+         "version" : "0.002"
+      },
+      "Physics::RayTransfer::Space" : {
+         "file" : "lib/Physics/RayTransfer.pm",
+         "version" : "0.002"
+      }
+   },
    "release_status" : "stable",
    "resources" : {
       "bugtracker" : {
@@ -57,6 +83,6 @@
          "url" : "http://github.com/jberger/Physics-RayTransfer/"
       }
    },
-   "version" : "0.001"
+   "version" : "0.002"
 }
 
