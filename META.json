@@ -51,27 +51,27 @@
    "provides" : {
       "Physics::RayTransfer" : {
          "file" : "lib/Physics/RayTransfer.pm",
-         "version" : "0.002"
+         "version" : "0.003"
       },
       "Physics::RayTransfer::Element" : {
          "file" : "lib/Physics/RayTransfer.pm",
-         "version" : "0.002"
+         "version" : "0.003"
       },
       "Physics::RayTransfer::Lens" : {
          "file" : "lib/Physics/RayTransfer.pm",
-         "version" : "0.002"
+         "version" : "0.003"
       },
       "Physics::RayTransfer::Mirror" : {
          "file" : "lib/Physics/RayTransfer.pm",
-         "version" : "0.002"
+         "version" : "0.003"
       },
       "Physics::RayTransfer::Observer" : {
          "file" : "lib/Physics/RayTransfer.pm",
-         "version" : "0.002"
+         "version" : "0.003"
       },
       "Physics::RayTransfer::Space" : {
          "file" : "lib/Physics/RayTransfer.pm",
-         "version" : "0.002"
+         "version" : "0.003"
       }
    },
    "release_status" : "stable",
@@ -83,6 +83,6 @@
          "url" : "http://github.com/jberger/Physics-RayTransfer/"
       }
    },
-   "version" : "0.002"
+   "version" : "0.003"
 }
 

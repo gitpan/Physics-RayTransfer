@@ -20,7 +20,7 @@ my %module_build_args = (
     "Joel Berger <joel.a.berger\@gmail.com>"
   ],
   "dist_name" => "Physics-RayTransfer",
-  "dist_version" => "0.002",
+  "dist_version" => "0.003",
   "license" => "perl",
   "module_name" => "Physics::RayTransfer",
   "recommends" => {},
